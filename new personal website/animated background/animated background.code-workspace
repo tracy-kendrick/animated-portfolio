@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../../games/snake game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "animated background"
+	}
+}

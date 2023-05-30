@@ -1,0 +1,48 @@
+.port1{
+    background-image: url(https://thumbs.gfycat.com/MerryInfamousEmeraldtreeskink-max-1mb.gif);
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: 100%;
+}
+
+h1{
+    position: absolute;
+    font-size: 42px; 
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    left: 40%;
+}
+#girl{
+    transform: translate(42%, 110%);
+}
+
+.park1 {
+    background-image: url(park3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:112%;;
+ 
+}
+.links{
+    /* font-size: 180px; */
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    /* font-size: 180px; */
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+article{
+    /* font-size: 80px; */
+    font-style:normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.about{
+    background-image: url(https://thumbs.gfycat.com/MerryInfamousEmeraldtreeskink-max-1mb.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
